@@ -12,7 +12,7 @@ Código: Limpo com objetivo de praticar conceitos básicos do Angular
 
 ## :wrench: Tecnologias utilizadas
 * HTML5;
-* CSS3;
+* Sass;
 * Angular+2 Version 13;
 
 ## :rocket: Rodando o projeto
